@@ -1,0 +1,44 @@
+Novoline Minecraft Client License Agreement
+Version 1.0 – 2024
+
+This License Agreement is a legal agreement between you (the "User" or "Licensee")
+and [Developer's Name] (the "Licensor").
+By installing, copying, or using the "Akrien" Minecraft Client (the "Software"),
+you agree to comply with the terms and conditions of this Agreement.
+
+1. Grant of License
+The Licensor hereby grants you a non-exclusive,
+non-transferable, revocable license to use the Software on a single personal computer (the "Device") for personal use only,
+subject to the terms of this Agreement.
+
+2. License Restrictions
+1) You may not distribute, sell, sublicense, or transfer the Software or any derivative works.
+2) You may not reverse-engineer, decompile, or disassemble the Software.
+3) You may not use the Software for commercial purposes, including monetizing or selling in-game content or services.
+4) You may not modify the Software or create derivative works based on the Software without explicit permission from the Licensor.
+
+3. Ownership and Copyright
+The Software is licensed, not sold. The Licensor retains ownership of all rights, title, and interest in the Software, including all copyright, patent, and trademark rights. This Agreement does not grant you any ownership of the Software or any related intellectual property.
+
+4. Updates and Support
+The Licensor may, at their discretion, provide updates to the Software. These updates may be governed by separate terms and conditions and will be subject to this Agreement unless otherwise stated. The Licensor is under no obligation to provide updates or technical support.
+
+5. Warranty Disclaimer
+The Software is provided "as is," with no warranties of any kind, express or implied. The Licensor does not guarantee the functionality, security, or compatibility of the Software with your system. The User assumes all risks associated with using the Software.
+
+6. Limitation of Liability
+To the maximum extent permitted by law, the Licensor shall not be liable for any indirect, incidental, special, or consequential damages, or for any loss of profits or data, arising from the use or inability to use the Software.
+
+7. Termination
+This Agreement will terminate automatically without notice if you fail to comply with any of its terms. Upon termination, you must immediately cease all use of the Software and delete or destroy all copies in your possession.
+
+8. Governing Law
+This Agreement is governed by the laws of the jurisdiction in which the Licensor resides. Any disputes arising from this Agreement shall be resolved in the appropriate court in that jurisdiction.
+
+9. Entire Agreement
+This Agreement constitutes the entire agreement between you and the Licensor with respect to the Software and supersedes all prior agreements or understandings, whether written or oral, relating to the Software.
+
+Therefore, by using the Software, you agree to be bound by the terms of this License Agreement.
+
+
+2025 Novoline, All Rights Reserved.
